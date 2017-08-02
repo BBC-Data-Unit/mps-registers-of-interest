@@ -11,7 +11,7 @@ The story led to reactions from the Digital Policing lead for West Yorkshire Pol
 * The data was collected from Parliament's [Register of Members' Financial Interests As at 7th July 2017](https://publications.parliament.uk/pa/cm/cmregmem/170707/contents.htm)
 * [CSV: Employment of family by party and relationship]()
 * [CSV: Percentage of each party's MPs employing family]()
-* [CSV: By MP: entries under "Family members employed and paid from parliamentary expenses"]()
+* [CSV: By MP: entries under "Family members employed and paid from parliamentary expenses"](https://github.com/BBC-Data-Unit/mps-registers-of-interest/blob/master/ROI17_familyemployment070717.csv)
 
 ## Visualisation
 
